@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($(($POWER)) /( $3)))
+echo $($ (($POWER) /($DIVIDE)))
